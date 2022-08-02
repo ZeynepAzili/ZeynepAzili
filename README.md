@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 
 # <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 
-  <a href="https://www.linkedin.com/in/zehra-kara-a4a4271a5/">
+  <a href="https://www.linkedin.com/in/ZeynepAzili-74b1557b/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zehrocknroll/">
+  <a href="https://www.instagram.com/ZeynepAzili/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:zehrakara12f@gmail.com">
+  <a href="mailto:azilizeynep@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
 
@@ -77,15 +77,15 @@ Here are some ideas to get you started:
 
 ----
 
-<a href="https://github.com/zehrocknroll">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehrocknroll&layout=compact" />
+<a href="https://github.com/ZeynepAzili">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynepAzili&layout=compact" />
 </a>
 
 ----
 
 ### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=DPython_Exercises&theme=radical "Python Exercises")](https://github.com/ZeynepAzili/Python_Exercises)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Python_Exercises&theme=radical "Python Exercises")](https://github.com/ZeynepAzili/Python_Exercises)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Docstring&theme=highcontrast "Docstring")](https://github.com/ZeynepAzili/Docstring)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Netflix-IMDB&theme=highcontrast "Netflix-IMDB")](https://github.com/ZeynepAzili/Netflix-IMDB)
 
@@ -109,9 +109,9 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zehrocknroll&theme=dark&background=000000)](https://git.io/streak-stats)
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=blue) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=zehrocknroll&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZeynepAzili&theme=dark&background=000000)](https://git.io/streak-stats)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ZeynepAzili&show_icons=true&theme=blue) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=zZeynepAzili&show_icons=true&theme=radical)
 
 ----
 
