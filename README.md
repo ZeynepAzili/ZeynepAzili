@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/zehra-kara-a4a4271a5/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/llephes">
-    <img align="left" alt="Satyam Goyal | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/zehrocknroll/">
     <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
@@ -61,8 +58,6 @@ Here are some ideas to get you started:
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -90,9 +85,9 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Data-Preprocessing&theme=radical "Data Preprocessing")](https://github.com/zehrocknroll/Data-Preprocessing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Python-Exercise&theme=highcontrast "Python Exercise")](https://github.com/zehrocknroll/PythonBootcamp)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zehrocknroll&repo=Readme-Template&theme=highcontrast "Readme Template")](https://github.com/zehrocknroll/Readme-Template)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=DPython_Exercises&theme=radical "Python Exercises")](https://github.com/ZeynepAzili/Python_Exercises)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Docstring&theme=highcontrast "Docstring")](https://github.com/ZeynepAzili/Docstring)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Netflix-IMDB&theme=highcontrast "Netflix-IMDB")](https://github.com/ZeynepAzili/Netflix-IMDB)
 
 ----
 
@@ -104,29 +99,11 @@ Here are some ideas to get you started:
 
 ----
 
-### :loudspeaker: You can checkout my blogs 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=artistsister&type=vertical)](https://medium.com/@artistsister)
-
-<!--
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/artistsister/Github-Cards-External-Blogs) 
--->
-
-
-<!--
-## :mailbox_with_mail: My Activities 
-
-| BLOGS :open_book: | BOOTCAMP :book: |
-| :--- | :--- |
-| [Yeniler Grubu (Liman Ressamları)](https://medium.com/@artistsister/t%C3%BCrk-sanat-tarihinin-i%CC%87ncisi-yeniler-grubu-liman-ressamlar%C4%B1-8077e6df4a8e) | [Global AI Hub](https://globalaihub.com/) |
-| [NAN](NAN) | [Miuul ML](https://courses.miuul.com/courses) |
-
-| [Kubernetes and Docker setup using Ansible](https://medium.com/codechef-vit/docker-and-kubernetes-setup-using-ansible-3d7e8f77fbfa) | [Guide to Linux](https://www.youtube.com/watch?v=t1HOY7Rp6xU) |
 -->
 
 ----
 
-![Github stats](https://activity-graph.herokuapp.com/graph?username=zehrocknroll&theme=minimal)
+![Github stats](https://activity-graph.herokuapp.com/graph?username=ZeynepAzili&theme=minimal)
 
 ----
 
@@ -144,4 +121,4 @@ Here are some ideas to get you started:
 
 ----
 
-:star: From [Zehra Kara](https://github.com/zehrocknroll/)
+:star: From [Zeynep Azili](https://github.com/ZeynepAzili/)
