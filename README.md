@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ----
 <div id="header" align = "center">
-<img src="https://komarev.com/ghpvc/?username=zehrocknroll&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ZeynepAzili&style=flat-square&color=blue" alt=""/>
 </div>
 
 ----
@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
   <a href="https://www.linkedin.com/in/ZeynepAzili-74b1557b/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ZeynepAzili/">
-    <img align="left" alt="Satyam Goyal | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+
   </a> &nbsp;&nbsp;
   <a href="mailto:azilizeynep@gmail.com">
     <img align="left" alt="Satyam Goyal | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
@@ -85,7 +83,7 @@ Here are some ideas to get you started:
 
 ### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Python_Exercises&theme=radical "Python Exercises")](https://github.com/ZeynepAzili/Python_Exercises)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Python_Exercises&theme=radical "Python_Exercises")](https://github.com/ZeynepAzili/Python_Exercises)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Docstring&theme=highcontrast "Docstring")](https://github.com/ZeynepAzili/Docstring)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZeynepAzili&repo=Netflix-IMDB&theme=highcontrast "Netflix-IMDB")](https://github.com/ZeynepAzili/Netflix-IMDB)
 
@@ -94,8 +92,8 @@ Here are some ideas to get you started:
 ## :arrow_down: My Certifications 
 
 - [Python Programming for Data Science](https://courses.miuul.com/courses/1814403/certificate?certificate_first_issued=true)
-- [First Step to Artificial Intelligence](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjoxMjk3MDcsImNvdXJzZS1pZCI6NTkyMDUsImNlcnQtaWQiOiI3MzA2NSJ9)
-- [Python: Python Programming for Artificial Intelligence and Data Science](https://www.udemy.com/certificate/UC-5ab05d3a-6fe1-421a-9ed2-ff7d57cf12bd/) 
+- [Python For Machine Learning](https://globalaihub.com/verify/?certificate=eyJ1c2VyLWlkIjo5NDM2MSwiY291cnNlLWlkIjoxMTI4NjQsImNlcnQtaWQiOiIxMTMyNjMifQ==)
+
 
 ----
 
